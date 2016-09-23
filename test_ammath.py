@@ -1,5 +1,5 @@
 from pytest import raises
-from amath import myaverage, mymedian
+from .aamath import myaverage, mymedian
 
 def test_mymath_mean():
     assert myaverage([9,3]) == 6
