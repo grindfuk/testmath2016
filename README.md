@@ -1,5 +1,5 @@
 
-# Here's a test 
+# Here's a test with a new name.
 
 [![Build Status](https://travis-ci.org/grindfuk/testmath2016.svg?branch=master)](https://travis-ci.org/grindfuk/testmath2016)
 
